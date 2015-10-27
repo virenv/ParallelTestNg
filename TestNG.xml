@@ -1,0 +1,7 @@
+<suite name="Suite2" verbose="1"  parallel="methods">
+  <test name="test002" >
+    <classes>
+       <class name="TestClasses.TestClass002" />
+    </classes>
+  </test>
+</suite>
